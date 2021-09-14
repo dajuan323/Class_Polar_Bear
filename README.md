@@ -7,5 +7,5 @@
 - Weeks 7-10: Django
 - Weeks 11-14: JavaScript
 - Weeks 15-18: Capstone
-- weeks
+- 
 [Submitting your work](<0 General/Submitting Your Work.md>)
