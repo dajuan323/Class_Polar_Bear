@@ -29,4 +29,4 @@
 ## git push
 
 `git push`
- - Pushes your committed changes to remote repo
+ - Pushes your local committed changes to remote repo
