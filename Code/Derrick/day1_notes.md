@@ -9,7 +9,7 @@
 ## git status 
 
 `git status`
- - notes any changes local repo and actual repo
+ - notes any changes local repo and remote repo
 
 ## git add 
 
