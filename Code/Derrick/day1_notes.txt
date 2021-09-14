@@ -4,7 +4,7 @@
 
 git pull 
  - Pulls the latest repo with updated changes
- - Do this as often as possible to keep updated with origin changes
+ - Do this as often as possible to keep updated with remote changes
 
 # ------------------------------------------------------ #
 
