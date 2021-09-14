@@ -1,4 +1,4 @@
-# Unnamed Class - 20210913
+# Class Polar Bear - 20210913
 
 ### Rough Timeline
 
