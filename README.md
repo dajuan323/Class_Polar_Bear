@@ -7,5 +7,11 @@
 - Weeks 7-10: Django
 - Weeks 11-14: JavaScript
 - Weeks 15-18: Capstone
-- 
-[Submitting your work](<0 General/Submitting Your Work.md>)
+
+
+### Subbmitting your work
+Make sure all labs are located within `Class_Polar_Bear/Code/<YourName>`
+- `git pull` to pull any recent changes to your local repository
+- `git add <filename>` to add a specific file or `git add .` to add everything in the current dicrectory
+- `git commit -m "your commit message"` to commit your work
+- `git push` to push your changes up to the remote repository on GitHub

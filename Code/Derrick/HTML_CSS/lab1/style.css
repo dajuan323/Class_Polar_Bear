@@ -1,0 +1,17 @@
+main {
+    text-align: center;
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a {
+    display: block;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0;  
+}
