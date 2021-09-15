@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+.div1 {
+    background-image: url("slothbackground.jpg");
+    background-size: cover;
+    opacity: .98;
+}
+
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
